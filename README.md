@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IGOBO
+- 👋 Hi, I’m IGOBO JOSHUA FIBERESIMA 
 - 👀 I’m interested in Web development and engineering
 - 🌱 I’m currently learning Java script 
 - 💞️ I’m looking to collaborate on projects that will enable me gain experience 
